@@ -15,7 +15,8 @@ def Register(alias):
         if func.__name__ not in commands:
             print("registered", func.__name__)
             argspec = inspect.getargspec(func)
-            count = len(argspec) - 1 if inspect.ismethod(func) else len(argspec)   
+            count = len(argspec.args) - 1 if inspect.ismethod(func) else len(argspec.args)   
+            print(count)
             commands[alias] = {
                 'func_ref':func,
                 'args': inspect.signature(func),
