@@ -13,14 +13,11 @@ commands = {}
 def Register(alias):
     def inner(func):
         if func.__name__ not in commands:
-            print("registered", func.__name__)
             argspec = inspect.getargspec(func)
-            count = len(argspec.args) - 1 if inspect.ismethod(func) else len(argspec.args)   
-            print(count)
             commands[alias] = {
                 'func_ref':func,
                 'args': inspect.signature(func),
-                'arg_count':count
+                'arg_count':len(inspect.getargspec(func).args)
                 }
         return func
     return inner
@@ -48,6 +45,7 @@ class main:
             res['func_ref'](*args)
         
 
+@Register(alias="lenny")
 def test(test1, test2, test3):
     pass
-print(commands)
+print(commands['lenny'])
