@@ -1,0 +1,528 @@
+[2021-05-28T20:43:58.842118 13752] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:58.842118 13752] Config: (default) base_dir = 
+[2021-05-28T20:43:58.842118 13752] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:58.842118 13752] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:58.842118 13752] Config: (default) compiler = 
+[2021-05-28T20:43:58.842118 13752] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:58.842118 13752] Config: (default) compression = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) compression_level = 6
+[2021-05-28T20:43:58.842118 13752] Config: (default) cpp_extension = 
+[2021-05-28T20:43:58.842118 13752] Config: (default) debug = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) depend_mode = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) direct_mode = true
+[2021-05-28T20:43:58.842118 13752] Config: (default) disable = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:58.842118 13752] Config: (default) hard_link = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) hash_dir = true
+[2021-05-28T20:43:58.842118 13752] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:58.842118 13752] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:58.842118 13752] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:58.842118 13752] Config: (default) max_files = 0
+[2021-05-28T20:43:58.842118 13752] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:58.842118 13752] Config: (default) path = 
+[2021-05-28T20:43:58.842118 13752] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) prefix_command = 
+[2021-05-28T20:43:58.842118 13752] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:58.842118 13752] Config: (default) read_only = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) read_only_direct = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) recache = false
+[2021-05-28T20:43:58.842118 13752] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:58.842118 13752] Config: (default) sloppiness = 
+[2021-05-28T20:43:58.842118 13752] Config: (default) stats = true
+[2021-05-28T20:43:58.842118 13752] Config: (default) temporary_dir = 
+[2021-05-28T20:43:58.842118 13752] Config: (default) umask = 
+[2021-05-28T20:43:58.842118 13752] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __constants.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src __constants.c
+[2021-05-28T20:43:58.843115 13752] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:58.843115 13752] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:58.843115 13752] Source file: __constants.c
+[2021-05-28T20:43:58.843115 13752] Object file: __constants.o
+[2021-05-28T20:43:58.843115 13752] Trying direct lookup
+[2021-05-28T20:43:58.844113 13752] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/3/3cdb9e54ed00cbcf57d48c26448a25-4766.manifest
+[2021-05-28T20:43:58.865057 20020] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:58.865057 20020] Config: (default) base_dir = 
+[2021-05-28T20:43:58.865057 20020] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:58.865057 20020] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:58.865057 20020] Config: (default) compiler = 
+[2021-05-28T20:43:58.865057 20020] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:58.865057 20020] Config: (default) compression = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) compression_level = 6
+[2021-05-28T20:43:58.865057 20020] Config: (default) cpp_extension = 
+[2021-05-28T20:43:58.865057 20020] Config: (default) debug = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) depend_mode = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) direct_mode = true
+[2021-05-28T20:43:58.865057 20020] Config: (default) disable = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:58.865057 20020] Config: (default) hard_link = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) hash_dir = true
+[2021-05-28T20:43:58.865057 20020] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:58.865057 20020] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:58.865057 20020] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:58.865057 20020] Config: (default) max_files = 0
+[2021-05-28T20:43:58.865057 20020] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:58.865057 20020] Config: (default) path = 
+[2021-05-28T20:43:58.865057 20020] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) prefix_command = 
+[2021-05-28T20:43:58.865057 20020] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:58.865057 20020] Config: (default) read_only = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) read_only_direct = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) recache = false
+[2021-05-28T20:43:58.865057 20020] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:58.865057 20020] Config: (default) sloppiness = 
+[2021-05-28T20:43:58.865057 20020] Config: (default) stats = true
+[2021-05-28T20:43:58.865057 20020] Config: (default) temporary_dir = 
+[2021-05-28T20:43:58.865057 20020] Config: (default) umask = 
+[2021-05-28T20:43:58.866056 20020] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __helpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src __helpers.c
+[2021-05-28T20:43:58.866056 20020] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:58.866056 20020] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:58.867051 20020] Source file: __helpers.c
+[2021-05-28T20:43:58.867051 20020] Object file: __helpers.o
+[2021-05-28T20:43:58.867051 20020] Trying direct lookup
+[2021-05-28T20:43:58.867051 20020] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/f/f4605d26739ab9ff315c898d936cbf-70373.manifest
+[2021-05-28T20:43:58.879019 20660] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:58.879019 20660] Config: (default) base_dir = 
+[2021-05-28T20:43:58.879019 20660] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:58.879019 20660] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:58.879019 20660] Config: (default) compiler = 
+[2021-05-28T20:43:58.879019 20660] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:58.879019 20660] Config: (default) compression = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) compression_level = 6
+[2021-05-28T20:43:58.879019 20660] Config: (default) cpp_extension = 
+[2021-05-28T20:43:58.879019 20660] Config: (default) debug = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) depend_mode = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) direct_mode = true
+[2021-05-28T20:43:58.879019 20660] Config: (default) disable = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:58.879019 20660] Config: (default) hard_link = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) hash_dir = true
+[2021-05-28T20:43:58.879019 20660] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:58.879019 20660] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:58.879019 20660] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:58.879019 20660] Config: (default) max_files = 0
+[2021-05-28T20:43:58.879019 20660] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:58.879019 20660] Config: (default) path = 
+[2021-05-28T20:43:58.879019 20660] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) prefix_command = 
+[2021-05-28T20:43:58.879019 20660] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:58.879019 20660] Config: (default) read_only = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) read_only_direct = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) recache = false
+[2021-05-28T20:43:58.879019 20660] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:58.879019 20660] Config: (default) sloppiness = 
+[2021-05-28T20:43:58.879019 20660] Config: (default) stats = true
+[2021-05-28T20:43:58.879019 20660] Config: (default) temporary_dir = 
+[2021-05-28T20:43:58.879019 20660] Config: (default) umask = 
+[2021-05-28T20:43:58.880018 20660] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o __loader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src __loader.c
+[2021-05-28T20:43:58.880018 20660] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:58.880018 20660] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:58.880018 20660] Source file: __loader.c
+[2021-05-28T20:43:58.880018 20660] Object file: __loader.o
+[2021-05-28T20:43:58.880018 20660] Trying direct lookup
+[2021-05-28T20:43:58.880018 20660] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/7/3/0417f780b2d7a186e7f3381445dbe5-3182.manifest
+[2021-05-28T20:43:58.899963 13752] Got object file hash from manifest
+[2021-05-28T20:43:58.900961 13752] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/f/8fa874f097d10a6cb1dea416a74b45-623211.o to __constants.o (uncompressed)
+[2021-05-28T20:43:58.900961 13752] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/f/8fa874f097d10a6cb1dea416a74b45-623211.o -> __constants.o
+[2021-05-28T20:43:58.901958 13752] Succeeded getting cached result
+[2021-05-28T20:43:58.901958 13752] Result: cache hit (direct)
+[2021-05-28T20:43:58.901958 13752] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-28T20:43:58.903953 13752] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-28T20:43:58.917916 20660] Got object file hash from manifest
+[2021-05-28T20:43:58.918913 20660] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/3/5d4d82e422ee99e672d1cf2cd152de-434856.o to __loader.o (uncompressed)
+[2021-05-28T20:43:58.918913 20660] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/3/5d4d82e422ee99e672d1cf2cd152de-434856.o -> __loader.o
+[2021-05-28T20:43:58.919911 20660] Succeeded getting cached result
+[2021-05-28T20:43:58.919911 20660] Result: cache hit (direct)
+[2021-05-28T20:43:58.919911 20660] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-28T20:43:58.926892 20020] Got object file hash from manifest
+[2021-05-28T20:43:58.927889 20020] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/3/e4b06ff37978ddbfba3ca03b0ab1ac-665974.o to __helpers.o (uncompressed)
+[2021-05-28T20:43:58.927889 20020] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/3/e4b06ff37978ddbfba3ca03b0ab1ac-665974.o -> __helpers.o
+[2021-05-28T20:43:58.927889 20020] Succeeded getting cached result
+[2021-05-28T20:43:58.927889 20020] Result: cache hit (direct)
+[2021-05-28T20:43:58.928887 20020] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-05-28T20:43:58.929884 20020] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-05-28T20:43:58.930882 20660] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-28T20:43:58.988727 23600] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:58.988727 23600] Config: (default) base_dir = 
+[2021-05-28T20:43:58.988727 23600] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:58.988727 23600] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:58.988727 23600] Config: (default) compiler = 
+[2021-05-28T20:43:58.988727 23600] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:58.988727 23600] Config: (default) compression = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) compression_level = 6
+[2021-05-28T20:43:58.988727 23600] Config: (default) cpp_extension = 
+[2021-05-28T20:43:58.988727 23600] Config: (default) debug = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) depend_mode = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) direct_mode = true
+[2021-05-28T20:43:58.988727 23600] Config: (default) disable = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:58.988727 23600] Config: (default) hard_link = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) hash_dir = true
+[2021-05-28T20:43:58.988727 23600] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:58.988727 23600] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:58.988727 23600] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:58.988727 23600] Config: (default) max_files = 0
+[2021-05-28T20:43:58.988727 23600] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:58.988727 23600] Config: (default) path = 
+[2021-05-28T20:43:58.988727 23600] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) prefix_command = 
+[2021-05-28T20:43:58.988727 23600] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:58.988727 23600] Config: (default) read_only = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) read_only_direct = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) recache = false
+[2021-05-28T20:43:58.988727 23600] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:58.988727 23600] Config: (default) sloppiness = 
+[2021-05-28T20:43:58.988727 23600] Config: (default) stats = true
+[2021-05-28T20:43:58.988727 23600] Config: (default) temporary_dir = 
+[2021-05-28T20:43:58.988727 23600] Config: (default) umask = 
+[2021-05-28T20:43:58.989724 23600] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o module.__main__.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src module.__main__.c
+[2021-05-28T20:43:58.989724 23600] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:58.989724 23600] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:58.990722 23600] Source file: module.__main__.c
+[2021-05-28T20:43:58.990722 23600] Object file: module.__main__.o
+[2021-05-28T20:43:58.990722 23600] Trying direct lookup
+[2021-05-28T20:43:58.991719 23600] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/6/3/0f77f8eaae2c29bc206e3e16149669-116175.manifest
+[2021-05-28T20:43:59.003687 6880 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) base_dir = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) compiler = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) compression = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) compression_level = 6
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) cpp_extension = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) debug = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) depend_mode = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) direct_mode = true
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) disable = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) hard_link = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) hash_dir = true
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:59.003687 6880 ] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) max_files = 0
+[2021-05-28T20:43:59.003687 6880 ] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) path = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) prefix_command = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) read_only = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) read_only_direct = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) recache = false
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) sloppiness = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) stats = true
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) temporary_dir = 
+[2021-05-28T20:43:59.003687 6880 ] Config: (default) umask = 
+[2021-05-28T20:43:59.004684 6880 ] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MainProgram.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src static_src\MainProgram.c
+[2021-05-28T20:43:59.004684 6880 ] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:59.004684 6880 ] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:59.004684 6880 ] Source file: static_src\MainProgram.c
+[2021-05-28T20:43:59.004684 6880 ] Object file: static_src\MainProgram.o
+[2021-05-28T20:43:59.005681 6880 ] Trying direct lookup
+[2021-05-28T20:43:59.005681 6880 ] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/b/902a21d8cca1c97f053de50daf4182-26333.manifest
+[2021-05-28T20:43:59.031612 23044] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:59.031612 23044] Config: (default) base_dir = 
+[2021-05-28T20:43:59.031612 23044] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:59.031612 23044] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:59.031612 23044] Config: (default) compiler = 
+[2021-05-28T20:43:59.031612 23044] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:59.031612 23044] Config: (default) compression = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) compression_level = 6
+[2021-05-28T20:43:59.031612 23044] Config: (default) cpp_extension = 
+[2021-05-28T20:43:59.031612 23044] Config: (default) debug = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) depend_mode = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) direct_mode = true
+[2021-05-28T20:43:59.031612 23044] Config: (default) disable = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:59.031612 23044] Config: (default) hard_link = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) hash_dir = true
+[2021-05-28T20:43:59.031612 23044] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:59.031612 23044] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:59.031612 23044] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:59.031612 23044] Config: (default) max_files = 0
+[2021-05-28T20:43:59.031612 23044] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:59.031612 23044] Config: (default) path = 
+[2021-05-28T20:43:59.031612 23044] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) prefix_command = 
+[2021-05-28T20:43:59.031612 23044] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:59.031612 23044] Config: (default) read_only = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) read_only_direct = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) recache = false
+[2021-05-28T20:43:59.031612 23044] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:59.031612 23044] Config: (default) sloppiness = 
+[2021-05-28T20:43:59.031612 23044] Config: (default) stats = true
+[2021-05-28T20:43:59.031612 23044] Config: (default) temporary_dir = 
+[2021-05-28T20:43:59.031612 23044] Config: (default) umask = 
+[2021-05-28T20:43:59.032610 23044] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCellType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCellType.c
+[2021-05-28T20:43:59.032610 23044] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:59.032610 23044] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:59.033607 23044] Source file: static_src\CompiledCellType.c
+[2021-05-28T20:43:59.033607 23044] Object file: static_src\CompiledCellType.o
+[2021-05-28T20:43:59.033607 23044] Trying direct lookup
+[2021-05-28T20:43:59.033607 23044] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/a/a56b7eec410e95605af0ccb36be90b-8038.manifest
+[2021-05-28T20:43:59.099431 23600] Got object file hash from manifest
+[2021-05-28T20:43:59.100428 23600] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/e/d45c1ad62a1298d751be0328640952-724603.o to module.__main__.o (uncompressed)
+[2021-05-28T20:43:59.101426 23600] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/e/d45c1ad62a1298d751be0328640952-724603.o -> module.__main__.o
+[2021-05-28T20:43:59.101426 23600] Succeeded getting cached result
+[2021-05-28T20:43:59.101426 23600] Result: cache hit (direct)
+[2021-05-28T20:43:59.101426 23600] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2021-05-28T20:43:59.103420 23600] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/stats.lock
+[2021-05-28T20:43:59.131345 23044] Got object file hash from manifest
+[2021-05-28T20:43:59.134338 23044] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/a/9f6655d9973df23d027870903fa5c0-626927.o to static_src\CompiledCellType.o (uncompressed)
+[2021-05-28T20:43:59.135335 23044] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/a/9f6655d9973df23d027870903fa5c0-626927.o -> static_src\CompiledCellType.o
+[2021-05-28T20:43:59.135335 23044] Succeeded getting cached result
+[2021-05-28T20:43:59.135335 23044] Result: cache hit (direct)
+[2021-05-28T20:43:59.136332 23044] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-28T20:43:59.136332 15620] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:59.136332 15620] Config: (default) base_dir = 
+[2021-05-28T20:43:59.136332 15620] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:59.136332 15620] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:59.136332 15620] Config: (default) compiler = 
+[2021-05-28T20:43:59.136332 15620] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:59.136332 15620] Config: (default) compression = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) compression_level = 6
+[2021-05-28T20:43:59.136332 15620] Config: (default) cpp_extension = 
+[2021-05-28T20:43:59.136332 15620] Config: (default) debug = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) depend_mode = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) direct_mode = true
+[2021-05-28T20:43:59.136332 15620] Config: (default) disable = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:59.136332 15620] Config: (default) hard_link = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) hash_dir = true
+[2021-05-28T20:43:59.136332 15620] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:59.136332 15620] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:59.136332 15620] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:59.136332 15620] Config: (default) max_files = 0
+[2021-05-28T20:43:59.136332 15620] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:59.136332 15620] Config: (default) path = 
+[2021-05-28T20:43:59.136332 15620] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) prefix_command = 
+[2021-05-28T20:43:59.136332 15620] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:59.136332 15620] Config: (default) read_only = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) read_only_direct = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) recache = false
+[2021-05-28T20:43:59.136332 15620] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:59.136332 15620] Config: (default) sloppiness = 
+[2021-05-28T20:43:59.136332 15620] Config: (default) stats = true
+[2021-05-28T20:43:59.136332 15620] Config: (default) temporary_dir = 
+[2021-05-28T20:43:59.136332 15620] Config: (default) umask = 
+[2021-05-28T20:43:59.137330 15620] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledFunctionType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledFunctionType.c
+[2021-05-28T20:43:59.137330 15620] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:59.137330 15620] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:59.137330 23044] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/2/stats.lock
+[2021-05-28T20:43:59.138327 15620] Source file: static_src\CompiledFunctionType.c
+[2021-05-28T20:43:59.138327 15620] Object file: static_src\CompiledFunctionType.o
+[2021-05-28T20:43:59.138327 15620] Trying direct lookup
+[2021-05-28T20:43:59.138327 15620] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/0/e/3e75337234063d2adaa44a3f4afdb7-79019.manifest
+[2021-05-28T20:43:59.173234 22884] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:59.173234 22884] Config: (default) base_dir = 
+[2021-05-28T20:43:59.173234 22884] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:59.173234 22884] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:59.173234 22884] Config: (default) compiler = 
+[2021-05-28T20:43:59.173234 22884] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:59.173234 22884] Config: (default) compression = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) compression_level = 6
+[2021-05-28T20:43:59.173234 22884] Config: (default) cpp_extension = 
+[2021-05-28T20:43:59.173234 22884] Config: (default) debug = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) depend_mode = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) direct_mode = true
+[2021-05-28T20:43:59.173234 22884] Config: (default) disable = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:59.173234 22884] Config: (default) hard_link = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) hash_dir = true
+[2021-05-28T20:43:59.173234 22884] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:59.173234 22884] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:59.173234 22884] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:59.173234 22884] Config: (default) max_files = 0
+[2021-05-28T20:43:59.173234 22884] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:59.173234 22884] Config: (default) path = 
+[2021-05-28T20:43:59.173234 22884] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) prefix_command = 
+[2021-05-28T20:43:59.173234 22884] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:59.173234 22884] Config: (default) read_only = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) read_only_direct = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) recache = false
+[2021-05-28T20:43:59.173234 22884] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:59.173234 22884] Config: (default) sloppiness = 
+[2021-05-28T20:43:59.173234 22884] Config: (default) stats = true
+[2021-05-28T20:43:59.173234 22884] Config: (default) temporary_dir = 
+[2021-05-28T20:43:59.173234 22884] Config: (default) umask = 
+[2021-05-28T20:43:59.173234 22884] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledGeneratorType.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledGeneratorType.c
+[2021-05-28T20:43:59.173234 22884] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:59.174231 22884] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:59.174231 22884] Source file: static_src\CompiledGeneratorType.c
+[2021-05-28T20:43:59.174231 22884] Object file: static_src\CompiledGeneratorType.o
+[2021-05-28T20:43:59.174231 22884] Trying direct lookup
+[2021-05-28T20:43:59.175229 22884] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/5/8f6b15b683eab08c55ce473e81c7ee-57468.manifest
+[2021-05-28T20:43:59.236066 15620] Got object file hash from manifest
+[2021-05-28T20:43:59.237063 15620] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/9/4f551dc2539f07caa70e6bfbee1614-709296.o to static_src\CompiledFunctionType.o (uncompressed)
+[2021-05-28T20:43:59.237063 15620] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/9/4f551dc2539f07caa70e6bfbee1614-709296.o -> static_src\CompiledFunctionType.o
+[2021-05-28T20:43:59.238060 15620] Succeeded getting cached result
+[2021-05-28T20:43:59.238060 15620] Result: cache hit (direct)
+[2021-05-28T20:43:59.238060 15620] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-05-28T20:43:59.239058 15620] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/e/stats.lock
+[2021-05-28T20:43:59.260002 22884] Got object file hash from manifest
+[2021-05-28T20:43:59.260999 22884] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/9/51fe8e0562938a1df47caa502607db-815105.o to static_src\CompiledGeneratorType.o (uncompressed)
+[2021-05-28T20:43:59.260999 22884] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/9/51fe8e0562938a1df47caa502607db-815105.o -> static_src\CompiledGeneratorType.o
+[2021-05-28T20:43:59.261997 22884] Succeeded getting cached result
+[2021-05-28T20:43:59.261997 22884] Result: cache hit (direct)
+[2021-05-28T20:43:59.261997 22884] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-05-28T20:43:59.263991 22884] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/9/stats.lock
+[2021-05-28T20:43:59.279949 6880 ] Got object file hash from manifest
+[2021-05-28T20:43:59.280945 6880 ] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/e/a6522df29cba8e819ac132cd50c0de-4110209.o to static_src\MainProgram.o (uncompressed)
+[2021-05-28T20:43:59.281943 6880 ] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/e/a6522df29cba8e819ac132cd50c0de-4110209.o -> static_src\MainProgram.o
+[2021-05-28T20:43:59.283938 6880 ] Succeeded getting cached result
+[2021-05-28T20:43:59.283938 6880 ] Result: cache hit (direct)
+[2021-05-28T20:43:59.284936 6880 ] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-28T20:43:59.291916 6880 ] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/d/stats.lock
+[2021-05-28T20:43:59.422567 4192 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) base_dir = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) compiler = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) compression = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) compression_level = 6
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) cpp_extension = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) debug = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) depend_mode = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) direct_mode = true
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) disable = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) hard_link = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) hash_dir = true
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:59.422567 4192 ] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) max_files = 0
+[2021-05-28T20:43:59.422567 4192 ] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) path = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) prefix_command = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) read_only = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) read_only_direct = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) recache = false
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) sloppiness = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) stats = true
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) temporary_dir = 
+[2021-05-28T20:43:59.422567 4192 ] Config: (default) umask = 
+[2021-05-28T20:43:59.422567 4192 ] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\CompiledCodeHelpers.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src static_src\CompiledCodeHelpers.c
+[2021-05-28T20:43:59.423565 4192 ] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:59.423565 4192 ] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:59.423565 4192 ] Source file: static_src\CompiledCodeHelpers.c
+[2021-05-28T20:43:59.423565 4192 ] Object file: static_src\CompiledCodeHelpers.o
+[2021-05-28T20:43:59.423565 4192 ] Trying direct lookup
+[2021-05-28T20:43:59.424562 4192 ] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/5/9/cf550bc7fdfa0fe4014220705cb5d8-55586.manifest
+[2021-05-28T20:43:59.440519 14016] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:59.440519 14016] Config: (default) base_dir = 
+[2021-05-28T20:43:59.440519 14016] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:59.440519 14016] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:59.440519 14016] Config: (default) compiler = 
+[2021-05-28T20:43:59.440519 14016] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:59.440519 14016] Config: (default) compression = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) compression_level = 6
+[2021-05-28T20:43:59.440519 14016] Config: (default) cpp_extension = 
+[2021-05-28T20:43:59.440519 14016] Config: (default) debug = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) depend_mode = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) direct_mode = true
+[2021-05-28T20:43:59.440519 14016] Config: (default) disable = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:59.440519 14016] Config: (default) hard_link = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) hash_dir = true
+[2021-05-28T20:43:59.440519 14016] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:59.440519 14016] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:59.440519 14016] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:59.440519 14016] Config: (default) max_files = 0
+[2021-05-28T20:43:59.440519 14016] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:59.440519 14016] Config: (default) path = 
+[2021-05-28T20:43:59.440519 14016] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) prefix_command = 
+[2021-05-28T20:43:59.440519 14016] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:59.440519 14016] Config: (default) read_only = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) read_only_direct = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) recache = false
+[2021-05-28T20:43:59.440519 14016] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:59.440519 14016] Config: (default) sloppiness = 
+[2021-05-28T20:43:59.440519 14016] Config: (default) stats = true
+[2021-05-28T20:43:59.440519 14016] Config: (default) temporary_dir = 
+[2021-05-28T20:43:59.440519 14016] Config: (default) umask = 
+[2021-05-28T20:43:59.440519 14016] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\InspectPatcher.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src static_src\InspectPatcher.c
+[2021-05-28T20:43:59.440519 14016] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:59.440519 14016] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:59.441516 14016] Source file: static_src\InspectPatcher.c
+[2021-05-28T20:43:59.441516 14016] Object file: static_src\InspectPatcher.o
+[2021-05-28T20:43:59.441516 14016] Trying direct lookup
+[2021-05-28T20:43:59.442514 14016] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/c/f/10ec706f027ab956e3be18dc38a5ad-13702.manifest
+[2021-05-28T20:43:59.469442 9280 ] === CCACHE 3.7.12 STARTED =========================================
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) base_dir = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (environment) cache_dir = C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) cache_dir_levels = 2
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) compiler = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) compiler_check = mtime
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) compression = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) compression_level = 6
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) cpp_extension = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) debug = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) depend_mode = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) direct_mode = true
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) disable = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) extra_files_to_hash = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) hard_link = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) hash_dir = true
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) ignore_headers_in_manifest = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) keep_comments_cpp = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) limit_multiple = 0.8
+[2021-05-28T20:43:59.469442 9280 ] Config: (environment) log_file = C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build\ccache-16280.txt
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) max_files = 0
+[2021-05-28T20:43:59.469442 9280 ] Config: (C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/ccache.conf) max_size = 5.0G
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) path = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) pch_external_checksum = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) prefix_command = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) prefix_command_cpp = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) read_only = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) read_only_direct = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) recache = false
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) run_second_cpp = true
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) sloppiness = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) stats = true
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) temporary_dir = 
+[2021-05-28T20:43:59.469442 9280 ] Config: (default) umask = 
+[2021-05-28T20:43:59.469442 9280 ] Command line: C:\Users\12186\AppData\Local\Nuitka\Nuitka\ccache\v3.7.12\ccache.exe C:\Users\12186\AppData\Local\Nuitka\Nuitka\gcc\x86_64\10.2.0-11.0.0-8.0.0-r5\mingw64\bin\gcc.exe -o static_src\MetaPathBasedLoader.o -c -std=c11 -fvisibility=hidden -fwrapv -fpartial-inlining -ftrack-macro-expansion=0 -Wno-deprecated-declarations -fno-var-tracking -fcompare-debug-second -O3 -pipe -D_WIN32_WINNT=0x0501 -D__NUITKA_NO_ASSERT__ -DMS_WIN64 -D_NUITKA_CONSTANTS_FROM_RESOURCE -D_NUITKA_FROZEN=0 -D_NUITKA_EXE -IC:\Users\12186\AppData\Local\Programs\Python\Python38\include -I. -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\include -IC:\Users\12186\AppData\Local\Programs\Python\Python38\lib\SITE-P~1\nuitka\build\static_src static_src\MetaPathBasedLoader.c
+[2021-05-28T20:43:59.469442 9280 ] Hostname: LAPTOP-0G5MV1IT
+[2021-05-28T20:43:59.469442 9280 ] Working directory: C:\Users\12186\Desktop\projects\discordManager-logic\discordManager-backend\c-rat\main.build
+[2021-05-28T20:43:59.470439 9280 ] Source file: static_src\MetaPathBasedLoader.c
+[2021-05-28T20:43:59.470439 9280 ] Object file: static_src\MetaPathBasedLoader.o
+[2021-05-28T20:43:59.470439 9280 ] Trying direct lookup
+[2021-05-28T20:43:59.471437 9280 ] Looking for object file hash in C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/1/0/f612f8bab5ae465f9042fa5ff4f5aa-53961.manifest
+[2021-05-28T20:43:59.509335 14016] Got object file hash from manifest
+[2021-05-28T20:43:59.510333 14016] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/f/31b5f6aa10bb20e9acfc6971529d9a-632444.o to static_src\InspectPatcher.o (uncompressed)
+[2021-05-28T20:43:59.510333 14016] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/f/31b5f6aa10bb20e9acfc6971529d9a-632444.o -> static_src\InspectPatcher.o
+[2021-05-28T20:43:59.510333 14016] Succeeded getting cached result
+[2021-05-28T20:43:59.510333 14016] Result: cache hit (direct)
+[2021-05-28T20:43:59.511330 14016] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-05-28T20:43:59.512327 14016] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/8/stats.lock
+[2021-05-28T20:43:59.606076 4192 ] Got object file hash from manifest
+[2021-05-28T20:43:59.606076 4192 ] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/d467c7654094e5075680272e4ffd5b-6006920.o to static_src\CompiledCodeHelpers.o (uncompressed)
+[2021-05-28T20:43:59.607074 4192 ] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/c/d467c7654094e5075680272e4ffd5b-6006920.o -> static_src\CompiledCodeHelpers.o
+[2021-05-28T20:43:59.608071 4192 ] Succeeded getting cached result
+[2021-05-28T20:43:59.608071 4192 ] Result: cache hit (direct)
+[2021-05-28T20:43:59.608071 4192 ] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-05-28T20:43:59.609068 9280 ] Got object file hash from manifest
+[2021-05-28T20:43:59.610066 4192 ] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/b/stats.lock
+[2021-05-28T20:43:59.610066 9280 ] Copying C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/d/82779d163c811ddcbb8d1be2d35648-4139485.o to static_src\MetaPathBasedLoader.o (uncompressed)
+[2021-05-28T20:43:59.610066 9280 ] Created from cache: C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/d/82779d163c811ddcbb8d1be2d35648-4139485.o -> static_src\MetaPathBasedLoader.o
+[2021-05-28T20:43:59.611064 9280 ] Succeeded getting cached result
+[2021-05-28T20:43:59.611064 9280 ] Result: cache hit (direct)
+[2021-05-28T20:43:59.611064 9280 ] Acquired lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
+[2021-05-28T20:43:59.613059 9280 ] Releasing lock C:\Users\12186\AppData\Local\Nuitka\Nuitka\Cache\ccache/a/stats.lock
