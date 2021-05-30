@@ -4,9 +4,8 @@ import cv2
 import base64
 import subprocess
 import pynput
-import win32gui
-from optparse import OptionParser
 import inspect
+from PIL import Image
 
 commands = {}
 
@@ -15,29 +14,30 @@ def Register(alias):
     def inner(func):
         if func.__name__ not in commands:
             print("registered", func.__name__)
+            argspec = inspect.getargspec(func)
+            count = len(argspec) - 1 if inspect.ismethod(func) else len(argspec)   
             commands[alias] = {
                 'func_ref':func,
-                'args': inspect.signature(func)
-            }
+                'args': inspect.signature(func),
+                'arg_count':count
+                }
         return func
     return inner
 
 
 class main:
-    def __init__(self):
-        self.__commands = {}
 
     @Register(alias="snap")
     def snapshot(self):
         i, img = cv2.VideoCapture(0).read()
         return base64.b64encode(img)
 
-    @Register
+    @Register(alias="press")
     def enablePress(self, button):
         pynput.press(button)
         pynput.release()
 
-    @Register
+    @Register(alias="screenshot")
     def screenshot():
         pass
 
