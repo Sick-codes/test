@@ -48,5 +48,6 @@ class main:
             res['func_ref'](*args)
         
 
-
+def test(test1, test2, test3):
+    pass
 print(commands)
