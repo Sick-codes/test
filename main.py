@@ -1,15 +1,14 @@
-import optparse
 import socket
 from typing import Type
 import cv2 
 import base64
 import subprocess
 import pynput
+import win32gui
 from optparse import OptionParser
 import inspect
-import types
-from functools import wraps
-import win32com.client as com
+import prts
+
 commands = {}
 
 
@@ -37,6 +36,9 @@ class main:
         pynput.press(button)
         pynput.release()
 
+    @Register
+    def screenshot():
+        pass
 
     def call_func(self, func_ref, *args):
         res = self.commands[func_ref.__name__]
@@ -45,10 +47,3 @@ class main:
         
 
 
-
-inst = main()
-#inst.enablePress("4")
-e = com.Dispatch("WScript.Shell")
-con = pynput.keyboard.Controller()
-while True:
-    con.press("f")
